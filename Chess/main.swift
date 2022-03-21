@@ -1,11 +1,3 @@
-//
-//  main.swift
-//  Im Bored So I Build Chess
-//
-//  Created by Benjamin Norton on 6/9/18.
-//  Copyright © 2018 Benjamin Norton. All rights reserved.
-//
-
 import Foundation
 
 extension StringProtocol {
